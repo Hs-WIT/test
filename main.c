@@ -48,6 +48,7 @@ int main(void)
 // 函数为空，目的是为了骗过编译器不报错
 void SystemInit(void)
 {	
+	/*/
 }
 
 
